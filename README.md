@@ -16,5 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Java](https://img.shields.io/badge/Java-Good-Green)
+![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+![C](https://img.shields.io/badge/C-Good-Green)
+![Scala](https://img.shields.io/badge/Scala-Intermediate-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
+
 <img src="https://github-readme-stats.vercel.app/api?username=davidedomini&count_private=true&show_icons=true&theme=gruvbox" height=200px width=550px>
 
