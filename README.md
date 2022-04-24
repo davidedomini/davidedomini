@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# Davide Domini
+### 23, Ravenna & Cesena - Italy
+### MSc in Computer Engineering And Science @ Unibo
 <!--
 **davidedomini/davidedomini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,10 +18,3 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=davidedomini&count_private=true&show_icons=true&theme=gruvbox" height=200px width=550px>
 
-
-#### All time programming languages
-<img src="https://wakatime.com/share/@davidedomini/7b1d5c62-1d9f-4a3a-836c-c29297ecc0b1.svg" height=400px width=650px>
-
-
-#### Real time coding activity
-<img src="https://wakatime.com/share/@davidedomini/c3fe2869-5ef5-4bc3-8960-99ffe2d5723f.svg?sanitaze=true" height=300px width=650px>
