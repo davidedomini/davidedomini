@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 
 ![Java](https://img.shields.io/badge/Java-Good-Green)
-![Python](https://img.shields.io/badge/Python-Intermediate-blue)
 ![C](https://img.shields.io/badge/C-Good-Green)
+![Python](https://img.shields.io/badge/Python-Intermediate-blue)
 ![Scala](https://img.shields.io/badge/Scala-Intermediate-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
 
