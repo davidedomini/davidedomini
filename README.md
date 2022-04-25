@@ -22,5 +22,7 @@ Here are some ideas to get you started:
 ![Scala](https://img.shields.io/badge/Scala-Intermediate-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=davidedomini&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 <img src="https://github-readme-stats.vercel.app/api?username=davidedomini&count_private=true&show_icons=true&theme=gruvbox" height=200px width=550px>
 
