@@ -1,4 +1,11 @@
 # Davide Domini
+
+![Java](https://img.shields.io/badge/Java-Fluent-red)
+![Scala](https://img.shields.io/badge/Scala-Good-Green)
+![C](https://img.shields.io/badge/C-Good-Green)
+![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
+
 ### 🙋🏻‍♂️ Personal informations
 23, Ravenna & Cesena - Italy
 
@@ -7,7 +14,7 @@ MSc in Computer Engineering And Science @ Unibo
 ### 📫 Contacts
 Email: davidedomini@gmail.com 
 
-Academic emails: davide.domini@studio.unibo.it davide.domini2@unibo.it
+Academic emails: davide.domini@studio.unibo.it   davide.domini2@unibo.it
 
 Site: https://www.unibo.it/sitoweb/davide.domini2
 
@@ -26,11 +33,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Java](https://img.shields.io/badge/Java-Fluent-red)
-![Scala](https://img.shields.io/badge/Scala-Good-Green)
-![C](https://img.shields.io/badge/C-Good-Green)
-![Python](https://img.shields.io/badge/Python-Intermediate-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=davidedomini&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
