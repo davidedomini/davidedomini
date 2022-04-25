@@ -11,6 +11,10 @@
 
 MSc in Computer Engineering And Science @Unibo
 
+Teaching tutor @Unibo:
+- Digital Design Principles and Computer Architecture (First cycle degree program: Biomedical Engineering & Electronics Engineering for Energy and Information)
+- Computer Science (First cycle degree program: Statistical Sciences)
+
 ### 📫 Contacts
 Email: davidedomini@gmail.com 
 
