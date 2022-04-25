@@ -1,6 +1,7 @@
 # Davide Domini
-### 23, Ravenna & Cesena - Italy
-### MSc in Computer Engineering And Science @ Unibo
+### 🙋🏻‍♂️ Personal informations
+#### 23, Ravenna & Cesena - Italy
+#### MSc in Computer Engineering And Science @ Unibo
 <!--
 **davidedomini/davidedomini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
