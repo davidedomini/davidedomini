@@ -5,7 +5,9 @@
 MSc in Computer Engineering And Science @ Unibo
 
 ### 📫 Contacts
-Emails: davidedomini@gmail.com davide.domini@studio.unibo.it davide.domini2@unibo.it
+Email: davidedomini@gmail.com 
+
+Academic emails: davide.domini@studio.unibo.it davide.domini2@unibo.it
 
 Site: https://www.unibo.it/sitoweb/davide.domini2
 
