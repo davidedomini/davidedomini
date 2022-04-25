@@ -9,7 +9,7 @@
 ### 🙋🏻‍♂️ Personal informations
 23, Ravenna & Cesena - Italy
 
-MSc in Computer Engineering And Science @ Unibo
+MSc in Computer Engineering And Science @Unibo
 
 ### 📫 Contacts
 Email: davidedomini@gmail.com 
