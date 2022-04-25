@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Java](https://img.shields.io/badge/Java-Fluent-Red)
+![Java](https://img.shields.io/badge/Java-Fluent-red)
+![Scala](https://img.shields.io/badge/Scala-Good-Green)
 ![C](https://img.shields.io/badge/C-Good-Green)
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
-![Scala](https://img.shields.io/badge/Scala-Good-Green)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=davidedomini&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
