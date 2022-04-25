@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+### 👨🏻‍💻 Developer stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=davidedomini&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://github-readme-stats.vercel.app/api?username=davidedomini&count_private=true&show_icons=true&theme=discord_old_blurple" height=200px width=550px>
