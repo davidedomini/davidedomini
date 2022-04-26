@@ -22,10 +22,7 @@ Academic emails: davide.domini@studio.unibo.it  or  davide.domini2@unibo.it
 
 Site: https://www.unibo.it/sitoweb/davide.domini2
 
-### 😎 Socials
 
-<a href="https://www.linkedin.com/in/davide-domini-3b9625175/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
-<a href="https://instagram.com/_davidedomini?igshid=YmMyMTA2M2Y="><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="30px" alt="instagram"></a>
 
 ### 🌱 Main interests
 - Artificial intelligence
@@ -48,6 +45,11 @@ Site: https://www.unibo.it/sitoweb/davide.domini2
      <img src="https://api.codiga.io/public/badge/user/github/davidedomini?style=dark" alt="codiga badge" height=193px  width=352px />
   </a>
 </div>
+
+### 😎 Socials
+
+<a href="https://www.linkedin.com/in/davide-domini-3b9625175/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
+<a href="https://instagram.com/_davidedomini?igshid=YmMyMTA2M2Y="><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="30px" alt="instagram"></a>
 
  <!--
 **davidedomini/davidedomini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
