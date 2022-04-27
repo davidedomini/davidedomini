@@ -50,7 +50,8 @@ Site: https://www.unibo.it/sitoweb/davide.domini2
 
 <a href="https://www.linkedin.com/in/davide-domini-3b9625175/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 <a href="https://instagram.com/_davidedomini?igshid=YmMyMTA2M2Y="><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="30px" alt="instagram"></a>
-
+<a href="https://www.facebook.com/davide.domini.7"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="30px" alt="instagram"></a>
+<a href="https://twitter.com/domini_davide"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="30px" alt="instagram"></a>
  <!--
 **davidedomini/davidedomini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
