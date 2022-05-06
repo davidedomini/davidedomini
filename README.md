@@ -30,7 +30,7 @@ Site: https://www.unibo.it/sitoweb/davide.domini2
 - Computer vision
 
 
-### 👨🏻‍💻 Developer stats
+### 👨🏻‍💻 Developer stat
 
 <div align="center">
  
