@@ -17,7 +17,7 @@ Teaching tutor @Unibo:
 - Computer Science (First cycle degree program: Statistical Sciences)
 
 ### 📫 Contacts
-Email: davidedomini@gmail.com 
+Personal email: davidedomini@gmail.com 
 
 Academic emails: davide.domini@studio.unibo.it  or  davide.domini2@unibo.it
 
