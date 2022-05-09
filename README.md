@@ -5,6 +5,7 @@
 ![C](https://img.shields.io/badge/C-Good-Green)
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
+![Prolog](https://img.shields.io/badge/Prolog-Beginner-yellow)
 
 ### 🙋🏻‍♂️ Personal informations
 23, Ravenna & Cesena - Italy
