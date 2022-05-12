@@ -47,7 +47,7 @@ Site: https://www.unibo.it/sitoweb/davide.domini2
   </a>
 </div>
 
-### 😎 Socials
+### 😎 Social
 
 <a href="https://www.linkedin.com/in/davide-domini-3b9625175/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 <a href="https://instagram.com/_davidedomini?igshid=YmMyMTA2M2Y="><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="30px" alt="instagram"></a>
