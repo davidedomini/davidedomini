@@ -16,6 +16,7 @@ Teaching tutor @Unibo:
 - Digital Design Principles and Computer Architecture (First cycle degree program: Biomedical Engineering & Electronics Engineering for Energy and Information)
 - Computer Science (First cycle degree program: Statistical Sciences)
 
+
 ### 📫 Contacts
 Personal email: davidedomini@gmail.com 
 
@@ -30,6 +31,7 @@ Site: https://www.unibo.it/sitoweb/davide.domini2
 - Software development 
 - Computer vision
 
+> "Fortuna est momentum quo occasionem convenit talentum"
 
 ### 👨🏻‍💻 Developer stats
 
