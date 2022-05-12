@@ -37,7 +37,7 @@ Site: https://www.unibo.it/sitoweb/davide.domini2
  
   [![trophy](https://github-profile-trophy.vercel.app/?username=davidedomini&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidedomini&hide=TLA,lua&theme=discord_old_blurple&bg_color=135,0F2027,203A43,2C5364&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidedomini&hide=TLA,Assembly,lua&theme=discord_old_blurple&bg_color=135,0F2027,203A43,2C5364&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
  <img src="https://github-readme-stats.vercel.app/api?username=davidedomini&count_private=true&show_icons=true&theme=discord_old_blurple" height=193px      width=352px>
  
