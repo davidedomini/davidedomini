@@ -1,4 +1,5 @@
-# Davide Domin
+# Davide Domini
+
 ![Java](https://img.shields.io/badge/Java-Fluent-red)
 ![Scala](https://img.shields.io/badge/Scala-Good-Green)
 ![C](https://img.shields.io/badge/C-Good-Green)
