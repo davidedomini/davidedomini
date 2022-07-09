@@ -39,14 +39,6 @@ Site: https://www.unibo.it/sitoweb/davide.domini2
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidedomini&hide=TLA,Assembly,lua&theme=discord_old_blurple&bg_color=135,0F2027,203A43,2C5364&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
- <img src="https://github-readme-stats.vercel.app/api?username=davidedomini&count_private=true&show_icons=true&theme=discord_old_blurple" height=193px      width=352px>
- 
- 
- <a href="https://app.codiga.io/public/user/github/davidedomini">
-     <img src="https://api.codiga.io/public/badge/user/github/davidedomini?style=dark" alt="codiga badge" height=193px  width=352px />
-  </a>
-</div>
-
 ### 😎 Socials
 
 <a href="https://www.linkedin.com/in/davide-domini-3b9625175/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
