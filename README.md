@@ -31,8 +31,6 @@ Site: https://www.unibo.it/sitoweb/davide.domini2
 - Software development 
 - Computer vision
 
-> "Fortuna est momentum quo occasionem convenit talentum"
-
 ### 👨🏻‍💻 Developer stats
 
 <div align="center">
