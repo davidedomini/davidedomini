@@ -20,7 +20,7 @@ Teaching tutor @Unibo:
 ### 📫 Contacts
 Personal email: davidedomini@gmail.com 
 
-Academic emails: davide.domini@studio.unibo.it  ||  davide.domini2@unibo.it
+Academic emails: davide.domini@studio.unibo.it  or  davide.domini2@unibo.it
 
 Site: https://www.unibo.it/sitoweb/davide.domini2
 
