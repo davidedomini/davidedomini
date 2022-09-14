@@ -13,6 +13,7 @@
 MSc in Computer Engineering And Science @Unibo
 
 Teaching tutor @Unibo:
+- Software Engineering (Second cycle degree program: Digital Transformation Management)
 - Digital Design Principles and Computer Architecture (First cycle degree program: Biomedical Engineering & Electronics Engineering for Energy and Information)
 - Computer Science (First cycle degree program: Statistical Sciences)
 - Machine Learning Systems for Data Science (Second cycle degree program: Statistical Sciences)
