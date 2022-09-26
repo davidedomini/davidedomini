@@ -42,10 +42,6 @@ Site: https://www.unibo.it/sitoweb/davide.domini2
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidedomini&hide=TLA,Assembly,lua&theme=discord_old_blurple&bg_color=135,0F2027,203A43,2C5364&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
- <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=davidedomini&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" width="600px" heigth="300px"
-/>
- 
 </div>
 
 ### 😎 Socials
