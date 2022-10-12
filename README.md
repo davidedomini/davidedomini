@@ -4,8 +4,9 @@
 ![Scala](https://img.shields.io/badge/Scala-Good-Green)
 ![C](https://img.shields.io/badge/C-Good-Green)
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
+![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-blue)
 ![Prolog](https://img.shields.io/badge/Prolog-Beginner-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
 
 ### 🙋🏻‍♂️ Personal informations
 23, Ravenna & Cesena - Italy
