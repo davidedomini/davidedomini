@@ -5,7 +5,7 @@
 ![C](https://img.shields.io/badge/C-Good-Green)
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-blue)
-![Prolog](https://img.shields.io/badge/Prolog-Beginner-yellow)
+![Prolog](https://img.shields.io/badge/Prolog-Intermediate-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
 
 ### 🙋🏻‍♂️ Personal informations
