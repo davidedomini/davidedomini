@@ -3,7 +3,7 @@
 ![Java](https://img.shields.io/badge/Java-Fluent-red)
 ![Scala](https://img.shields.io/badge/Scala-Good-Green)
 ![C](https://img.shields.io/badge/C-Good-Green)
-![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+![Python](https://img.shields.io/badge/Python-Good-Green)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-blue)
 ![Prolog](https://img.shields.io/badge/Prolog-Intermediate-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
