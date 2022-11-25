@@ -7,7 +7,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-blue)
 ![Prolog](https://img.shields.io/badge/Prolog-Intermediate-blue)
 ![R](https://img.shields.io/badge/R-Intermediate-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-blue)
 
 ### 🙋🏻‍♂️ Personal informations
 23, Ravenna & Cesena - Italy
@@ -42,7 +42,7 @@ Site: https://www.unibo.it/sitoweb/davide.domini2
  
   [![trophy](https://github-profile-trophy.vercel.app/?username=davidedomini&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidedomini&hide=TLA,Assembly,ANTLR,lua&theme=discord_old_blurple&bg_color=135,0F2027,203A43,2C5364&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidedomini&hide=TLA,Assembly,Vue,ANTLR,lua&theme=discord_old_blurple&bg_color=135,0F2027,203A43,2C5364&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
 </div>
 
