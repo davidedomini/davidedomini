@@ -34,6 +34,7 @@ Site: https://www.unibo.it/sitoweb/davide.domini2
 ### 🌱 Main interests
 - Artificial intelligence
 - Software development 
+- Complex systems
 - Intelligent systems
 
 ### 👨🏻‍💻 Developer stats
