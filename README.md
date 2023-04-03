@@ -10,7 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-blue)
 
 ### 🙋🏻‍♂️ Personal informations
-23, Ravenna & Cesena - Italy
+24, Ravenna & Cesena - Italy
 
 MSc in Computer Engineering And Science @Unibo
 
