@@ -38,6 +38,10 @@ Site: https://www.unibo.it/sitoweb/davide.domini2
 - Complex systems
 - Intelligent systems
 
+### 🥼👨🏻‍💻🤟🏻 Scientific pubblications
+
+- [ScaRLib: A Framework for Cooperative Many Agent Deep Reinforcement Learning in Scala](https://link.springer.com/chapter/10.1007/978-3-031-35361-1_3) 
+
 ### 👨🏻‍💻 Developer stats
 
 <div align="center">
