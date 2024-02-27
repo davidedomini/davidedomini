@@ -1,13 +1,14 @@
 # Davide Domini
 
 ![Java](https://img.shields.io/badge/Java-Fluent-red)
+![Python](https://img.shields.io/badge/Python-Fluent-red)
+![Kotlin](https://img.shields.io/badge/Kotlin-Good-Green)
 ![Scala](https://img.shields.io/badge/Scala-Good-Green)
 ![C](https://img.shields.io/badge/C-Good-Green)
-![Python](https://img.shields.io/badge/Python-Good-Green)
-![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Good-Green)
 ![Prolog](https://img.shields.io/badge/Prolog-Intermediate-blue)
 ![R](https://img.shields.io/badge/R-Intermediate-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-blue)
+
 
 ### 🙋🏻‍♂️ Personal informations
 24, Ravenna & Cesena - Italy
