@@ -34,6 +34,7 @@ Site: https://www.unibo.it/sitoweb/davide.domini
 
 ### 🌱 Main interests
 - Artificial intelligence
+- Federated learning
 - Software development 
 - Functional programming
 - Complex systems
