@@ -13,7 +13,7 @@
 ### 🙋🏻‍♂️ Personal informations
 24, Ravenna & Cesena - Italy
 
-PhD student in Computer Engineering And Science @Unibo
+PhD student in Computer Engineering and Science @Unibo
 
 Teaching tutor @Unibo:
 - [Software Engineering](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/466765) 
