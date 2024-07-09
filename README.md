@@ -6,7 +6,6 @@
 ![Scala](https://img.shields.io/badge/Scala-Good-Green)
 ![C](https://img.shields.io/badge/C-Good-Green)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Good-Green)
-![Prolog](https://img.shields.io/badge/Prolog-Intermediate-blue)
 
 
 ### 🙋🏻‍♂️ Personal informations
