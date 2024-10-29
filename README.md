@@ -13,21 +13,15 @@
 
 PhD student in Computer Engineering and Science @Unibo
 
-Teaching tutor @Unibo:
-- [Software Engineering](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/466765) 
-- [Industry 4.0](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/466780)
-- [Software Engineering for Intelligent Distributed Systems](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/466765)
-- [Laboratory of Big Data, Data Mining and Data Analytics](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/466795) 
-- [Machine Learning Systems for Data Science](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/444067)
-- [Digital Design Principles and Computer Architecture](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/384456)
-- [Computer Science](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/403307)
+Teaching tutor @Unibo
+
 
 ### 📫 Contacts
 Personal email: davidedomini@gmail.com 
 
-Academic emails: davide.domini@studio.unibo.it  or  davide.domini@unibo.it
+Academic emails: davide.domini@unibo.it
 
-Site: https://www.unibo.it/sitoweb/davide.domini
+Site: https://www.unibo.it/sitoweb/davide.domini/en
 
 
 ### 🌱 Main interests
