@@ -1,11 +1,11 @@
 # Davide Domini
 
-![Java](https://img.shields.io/badge/Java-Fluent-red)
-![Python](https://img.shields.io/badge/Python-Fluent-red)
-![Kotlin](https://img.shields.io/badge/Kotlin-Good-Green)
-![Scala](https://img.shields.io/badge/Scala-Good-Green)
-![C](https://img.shields.io/badge/C-Good-Green)
-![JavaScript](https://img.shields.io/badge/JavaScript-Good-Green)
+![Scala](https://img.shields.io/badge/Scala-Fluent-green)
+![Python](https://img.shields.io/badge/Python-Fluent-green)
+![Java](https://img.shields.io/badge/Java-Fluent-green)
+![Kotlin](https://img.shields.io/badge/Kotlin-Good-red)
+![C](https://img.shields.io/badge/C-Good-red)
+![JavaScript](https://img.shields.io/badge/JavaScript-Good-red)
 
 
 ### 🙋🏻‍♂️ Personal informations
