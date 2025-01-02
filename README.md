@@ -9,7 +9,7 @@
 
 
 ### 🙋🏻‍♂️ Personal informations
-24, Ravenna & Cesena - Italy
+25, Ravenna & Cesena - Italy
 
 PhD student in Computer Engineering and Science @Unibo
 
